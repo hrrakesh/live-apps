@@ -7,3 +7,5 @@ Here are some of my live projects you can check out:
 
 🤖 **AI Application**  
 👉 Coming soon...
+
+😎 A new beginning..
