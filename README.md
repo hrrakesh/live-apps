@@ -6,6 +6,6 @@ Here are some of my live projects you can check out:
 👉 https://rakeshhr.netlify.app/
 
 🤖 **AI Application**  
-👉 Coming soon...
+👉 https://aiproject.pythonanywhere.com/
 
 😎 A new beginning..
